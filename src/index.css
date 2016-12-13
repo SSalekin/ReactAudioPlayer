@@ -1,0 +1,10 @@
+body {
+  margin: 0;
+  padding: 10%;
+  font-family: sans-serif;
+}
+
+audio {
+  width: 100%;
+  display: block;
+}
